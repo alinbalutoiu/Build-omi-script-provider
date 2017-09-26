@@ -1,6 +1,12 @@
 [submodule "scriptprovider"]
-	path = scriptprovider
-	url = https://github.com/Microsoft/omi-script-provider
+    path = scriptprovider
+    url = https://github.com/Microsoft/omi-script-provider
+    branch = master
 [submodule "omi"]
-	path = omi
-	url = https://github.com/Microsoft/omi
+    path = omi
+    url = https://github.com/Microsoft/omi
+    branch = master
+[submodule "pal"]
+    path = pal
+    url = https://github.com/Microsoft/pal
+    branch = master
